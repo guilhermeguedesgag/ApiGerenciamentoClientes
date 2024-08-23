@@ -1,4 +1,4 @@
-package com.digihub.gerencia_clientes;
+package com.guedes.gerencia_clientes;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
